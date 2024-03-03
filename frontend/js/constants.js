@@ -1,5 +1,5 @@
-const contractAddress = "0x6E03B72DFDf03E9c89B116a29685355C720D35cC"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const contractAddress = "0x2CaAaAbF8b7AE5A75513620184Fb70be89177a62"; // Replace with your own contract address
+const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Looney NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
